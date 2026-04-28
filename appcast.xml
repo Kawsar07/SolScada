@@ -8,7 +8,7 @@
 
    <!-- ANDROID -->
 <item>
-  <title>Version 5.0.1</title>
+  <title>Version 5.0.4</title>
   <description>
     - Bug fixes and performance improvements
     - UI improvements
@@ -17,8 +17,8 @@
   <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
   <enclosure
     url="https://play.google.com/store/apps/details?id=com.nz_bd.nz_scada"
-    sparkle:version="5.0.1"
-    sparkle:shortVersionString="5.0.1"
+    sparkle:version="5.0.4"
+    sparkle:shortVersionString="5.0.4"
     sparkle:os="android"
     type="application/octet-stream"
     length="1"/>
@@ -26,7 +26,7 @@
 
 <!-- iOS -->
 <item>
-  <title>Version 5.0.1</title>
+  <title>Version 5.0.3</title>
   <description>
     - Bug fixes and performance improvements
     - UI improvements
@@ -35,8 +35,8 @@
   <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
   <enclosure
     url="https://apps.apple.com/ca/app/solscada/id6756875745"
-    sparkle:version="5.0.1"
-    sparkle:shortVersionString="5.0.1"
+    sparkle:version="5.0.3"
+    sparkle:shortVersionString="5.0.3"
     sparkle:os="ios"
     type="application/octet-stream"
     length="1"/>
